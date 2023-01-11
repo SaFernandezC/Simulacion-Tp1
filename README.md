@@ -1,3 +1,8 @@
 # Simulacion-Tp1
 
-Desarrollo del trabajo practico 1 de la materia Simulacion.
+Development of practical work 1 of the subject Simulation.
+
+You can read the statement [here](https://github.com/SaFernandezC/Simulacion-Tp1/blob/main/Enunciado.pdf).
+
+You can read the solution [here](https://github.com/SaFernandezC/Simulacion-Tp1/blob/main/Tp1.ipynb).
+
